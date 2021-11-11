@@ -1,0 +1,4 @@
+- 👋 Salom, men @Ibratillo!
+- 👀 Men kompyuter bilan ishlash va dasturlash tiliga qiziqaman.
+- 🌱 Men hozir Python dasturlash tilini o`rganyapman va GitHubga loyihalarimni joylab boraman.
+- 📫 Menga bog`lanish https://t.me/IBRATILLO_TATUFF 
